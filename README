@@ -1,0 +1,10 @@
+
+Each algorithm is C file, so direct compilation and execution.
+
+Build:
+----
+gcc prism.c -o prism
+gcc djkstra.c -o djkstra
+gcc huffman.c -o huffmann
+gcc bellmanc.c -o bellmann
+gcc convexhull.c -o convexhull
